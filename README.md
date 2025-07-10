@@ -34,4 +34,4 @@ Feel free to fork this repo, use the code for your own learning, or reach out wi
 ## 📌 Author
 
 **Celeste Melissa**  
-Aspiring Software Engineer 🌱 | Passionate About Problem Solving & Clean Code  
+Passionate About Problem Solving & Clean Code  

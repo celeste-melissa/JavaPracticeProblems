@@ -19,15 +19,6 @@ This repo includes solutions and mini-programs covering:
 
 ---
 
-## 🛠 Example Projects
-
-- **Calculator**: Takes two numbers and an operator from the user, then performs the calculation.
-- **ASCII Codes**: Prints characters and their corresponding ASCII values.
-- **Sum Until Zero**: Continuously accepts user input until the user enters `0`, then prints the total sum.
-- ...and more coming soon!
-
----
-
 ## 🎯 Purpose
 
 This repository is part of my learning journey in Java. It serves as a practice ground and a personal reference as I master core programming concepts. All code is written with readability and simplicity in mind, and I'm always open to suggestions or collaboration!
